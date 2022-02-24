@@ -1,1 +1,1 @@
-# solana-project-integration
+# defilama
